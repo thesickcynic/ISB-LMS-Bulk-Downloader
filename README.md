@@ -5,7 +5,7 @@ This only works on MacOS. You need to have Chrome installed before using this.
 ## One Click Way
 1. Download the repository. (Code -> Download as Zip)
 2. Double click the ISB_LMS_Bulk_Scraper file. (The one without the .py).
-3. A Chrome browser window and a terminal should pop up. Quickly log in to LMS, it times out after 90 seconds.
+3. A Chrome browser window and a terminal should pop up. Quickly log in to LMS IN THE WINDOW THAT POPS UP, you have 90 seconds before it times out.
 4. The download should start automatically. Files will be stored on your desktop in a folder titled ISB_Coursepacks, organized by term. You can monitor the progress in the terminal window. 
 
 
