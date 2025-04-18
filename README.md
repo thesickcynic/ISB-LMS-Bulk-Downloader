@@ -19,7 +19,7 @@ This only works on MacOS. You need to have Chrome installed before using this.
 3.  **Navigate to Project Directory:**
     * Use the `cd` (change directory) command to navigate into the folder where you downloaded/cloned this repository. For example, if it's in your Downloads folder:
         ```bash
-        cd ~/Downloads/ISB_LMS_Bulk_Scraper # Replace ISB_LMS_Bulk_Scraper with the actual folder name
+        cd ~/Downloads/ISB-LMS-Bulk-Downloader-main 
         ```
 
 4.  **Install Required Libraries:**
