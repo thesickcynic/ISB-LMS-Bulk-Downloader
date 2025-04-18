@@ -1,6 +1,6 @@
 # ISB LMS Bulk Downloader
-
-This only works on MacOS. You need to have Chrome installed before using this. 
+You need to have Chrome installed before using this. 
+The one click way only works on MacOS. Executing the Python script should also work on Windows. 
 
 ## One Click Way
 1. Download the repository. (Code -> Download as Zip)
